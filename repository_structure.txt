@@ -1,0 +1,42 @@
+MindfulShift2025/
+│
+├── app/
+│   ├── __init__.py
+│   ├── pages/
+│   │   ├── welcome.py
+│   │   ├── people_detox.py
+│   │   ├── places_detox.py
+│   │   ├── personal_growth.py
+│   │   ├── professional_growth.py
+│   │   ├── purpose_discovery.py
+│   │   ├── journal.py
+│   │   └── progress.py
+│   │
+│   ├── utils/
+│   │   ├── data_manager.py
+│   │   ├── theme_manager.py
+│   │   └── analytics.py
+│   │
+│   └── widgets/
+│       ├── custom_buttons.py
+│       ├── progress_charts.py
+│       └── journal_entry.py
+│
+├── data/
+│   ├── user_data/
+│   ├── templates/
+│   └── resources/
+│
+├── docs/
+│   ├── user_guide.pdf
+│   └── development.md
+│
+├── tests/
+│   └── test_core.py
+│
+├── README.md
+├── README.html
+├── requirements.py
+├── setup.py
+├── run.py
+└── start.bat
